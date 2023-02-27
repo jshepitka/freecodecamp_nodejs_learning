@@ -4,7 +4,8 @@ This is the boilerplate code for the Basic Node and Express Challenges. Instruct
 
 ---
 
-Submit ``` http://localhost:3000 ``` as the url for completing challenges locally
+Submit ``` http://localhost:3000 ``` as the url for completing challenges locally.
+- Live app can be viewed locally in a browser using the same url.
 
 Open Terminal and use ```$ npm start ``` to run before submission.
 
