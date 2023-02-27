@@ -5,3 +5,5 @@ This is the boilerplate code for the Basic Node and Express Challenges. Instruct
 ---
 
 Submit ``` http://localhost:3000 ``` as the url for completing challenges locally
+
+[VSCode Node.js tutorial page](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
